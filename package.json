@@ -1,0 +1,21 @@
+{
+  "name": "quadratic-equation-two",
+  "version": "1.0.0",
+  "description": "quadratic equation two",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "quadratic",
+    "equation"
+  ],
+  "author": "duytan",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "eslint": "^3.5.0",
+    "eslint-config-ggc": "^1.2.22",
+    "mocha": "^3.0.2"
+  }
+}
