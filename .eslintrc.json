@@ -31,7 +31,8 @@
   },
 
   "globals": {
-
+    "describe": true,
+    "it": true
   },
 
   "plugins": [
@@ -103,9 +104,7 @@
     "space-before-function-paren": [
       "error", "never"
     ],
-    "sort-imports": 0,
     "sort-keys": 0,
-    "sort-vars": 0,
     "vars-on-top": 0
   }
 }
